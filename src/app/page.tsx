@@ -2,6 +2,9 @@
 
 export default function Home() {
   return (
-    <h1>Home</h1>
+    <>
+      <nav> This is a  navBar </nav>
+      <h1>Home</h1>
+    </>
   )
 }
